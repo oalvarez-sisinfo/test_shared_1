@@ -3,6 +3,7 @@
 from openerp import models, fields, api
 
 # Line from 1
+# Line from 2
 # class test_module(models.Model):
 #     _name = 'test_module.test_module'
 
